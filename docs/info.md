@@ -11,11 +11,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 This is only a test
+I only testing the proyect
+input is a test
+output is a test
 
 ## How to test
 
 Explain how to use your project
 It only a test...
+We need to test 
+we dont need hardware
 
 ## External hardware
 
