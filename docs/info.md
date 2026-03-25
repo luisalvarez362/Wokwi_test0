@@ -14,6 +14,7 @@ This is only a test
 I only testing the proyect
 input is a test
 output is a test
+It is a counter and only need the clock
 
 ## How to test
 
@@ -21,7 +22,7 @@ Explain how to use your project
 It only a test...
 We need to test 
 we dont need hardware
-
+just connect the clk signal and reset and leds
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
